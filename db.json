@@ -1,0 +1,54 @@
+# db.json
+
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meeting at Office",
+      "day": "Feb 6th at 4:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Yoga ",
+      "day": "Tuseday",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Grocery Shopping",
+      "day": "Thursday at 5:30 PM",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Yoga ",
+      "day": "Tuseday",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Food Shopping ",
+      "day": "Thursday at 5:30",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "Running",
+      "day": "Sunday at 8:am",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "running ",
+      "day": "tuseday at 6:am",
+      "reminder": true,
+      "id": 9
+    }
+  ]
+}
