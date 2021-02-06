@@ -27,24 +27,6 @@
       "id": 5
     },
     {
-      "text": "Yoga ",
-      "day": "Tuseday",
-      "reminder": true,
-      "id": 6
-    },
-    {
-      "text": "Food Shopping ",
-      "day": "Thursday at 5:30",
-      "reminder": true,
-      "id": 7
-    },
-    {
-      "text": "Running",
-      "day": "Sunday at 8:am",
-      "reminder": true,
-      "id": 8
-    },
-    {
       "text": "running ",
       "day": "tuseday at 6:am",
       "reminder": true,
